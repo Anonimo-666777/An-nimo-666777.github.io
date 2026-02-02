@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ESP Universal",
+    "game": "Universal",
+    "author": "David",
+    "description": "ESP simples com toggle",
+    "path": "scripts/esp_universal.lua"
+  },
+  {
+    "name": "FPS Boost",
+    "game": "Any",
+    "author": "Comunidade",
+    "description": "Remove efeitos desnecessários",
+    "path": "scripts/fps_boost.lua"
+  }
+]
