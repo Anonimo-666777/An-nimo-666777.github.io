@@ -1,1 +1,1 @@
-sei lá
+print("Script de exemplo funcionando teste")
